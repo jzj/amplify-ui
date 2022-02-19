@@ -1,5 +1,14 @@
 # @aws-amplify/ui-vue
 
+## 2.1.3
+
+### Patch Changes
+
+- [#1357](https://github.com/aws-amplify/amplify-ui/pull/1357) [`65ed5351f`](https://github.com/aws-amplify/amplify-ui/commit/65ed5351f2ca850ddf7db0c9a002ff563351f138) Thanks [@ErikCH](https://github.com/ErikCH)! - Added new translations for confirm sign up page
+
+- Updated dependencies [[`fbfcd04d3`](https://github.com/aws-amplify/amplify-ui/commit/fbfcd04d36753a69d24d5576736a9082f1a66dbe)]:
+  - @aws-amplify/ui@3.0.15
+
 ## 2.1.2
 
 ### Patch Changes

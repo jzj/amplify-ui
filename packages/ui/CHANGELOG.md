@@ -1,5 +1,11 @@
 # @aws-amplify/ui
 
+## 3.0.15
+
+### Patch Changes
+
+- [#1360](https://github.com/aws-amplify/amplify-ui/pull/1360) [`fbfcd04d3`](https://github.com/aws-amplify/amplify-ui/commit/fbfcd04d36753a69d24d5576736a9082f1a66dbe) Thanks [@0618](https://github.com/0618)! - fix: menu dropdown style in dark mode by adding border
+
 ## 3.0.14
 
 ### Patch Changes

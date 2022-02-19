@@ -1,5 +1,31 @@
 # @aws-amplify/ui-react
 
+## 2.5.1
+
+### Patch Changes
+
+- [#1358](https://github.com/aws-amplify/amplify-ui/pull/1358) [`43c814db4`](https://github.com/aws-amplify/amplify-ui/commit/43c814db418865672730449ba8c983bcb7d94847) Thanks [@zchenwei](https://github.com/zchenwei)! - chore: updating all React imports from default to namespace
+
+* [#1357](https://github.com/aws-amplify/amplify-ui/pull/1357) [`65ed5351f`](https://github.com/aws-amplify/amplify-ui/commit/65ed5351f2ca850ddf7db0c9a002ff563351f138) Thanks [@ErikCH](https://github.com/ErikCH)! - Added new translations for confirm sign up page
+
+- [#1371](https://github.com/aws-amplify/amplify-ui/pull/1371) [`1a2f8a732`](https://github.com/aws-amplify/amplify-ui/commit/1a2f8a732952c0e76e91b3b2c8472e3c0eed2af8) Thanks [@reesscot](https://github.com/reesscot)! - feat: add new TextAreaField primitive (replaces TextField `isMultiline` feature)
+
+  **Example**
+
+  ```
+  <TextAreaField
+    descriptiveText="Enter a valid last name"
+    label="Last name"
+    name="last_name"
+    placeholder="Baggins"
+    rows="3"
+    onChange={(e) => console.info(e.currentTarget.value)}
+  />
+  ```
+
+- Updated dependencies [[`fbfcd04d3`](https://github.com/aws-amplify/amplify-ui/commit/fbfcd04d36753a69d24d5576736a9082f1a66dbe)]:
+  - @aws-amplify/ui@3.0.15
+
 ## 2.5.0
 
 ### Minor Changes
